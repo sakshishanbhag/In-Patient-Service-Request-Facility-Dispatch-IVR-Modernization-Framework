@@ -1,10 +1,7 @@
-# Conversational IVR
-## Modernization Framework
-### Topic: In-Patient Service Request & Facility Dispatch IVR
-
-<p align="center">
-	<a href="#overview"><img alt="Hero" src="assets/hero.png" /></a>
-</p>
+<div align="center">
+	<h1>Conversational IVR Modernization Framework</h1>
+	<h2>Topic: In-Patient Service Request &amp; Facility Dispatch IVR</h2>
+</div>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI" />
