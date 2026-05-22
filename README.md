@@ -160,13 +160,5 @@ IVR: "Done. We'll notify housekeeping now. Anything else?"
 ```bash
 pytest test_ivr.py
 ```
-
----
-
-**Creative next steps**
-- Give the IVR a persona (cheerful, clinical, empathetic) by swapping TTS voices and scripts.
-- Add a short GIF of a test call and drop it in the repo root for a visual demo.
-- Add CI that runs `pytest` on PRs and posts results to the repo.
-
 ---
 
